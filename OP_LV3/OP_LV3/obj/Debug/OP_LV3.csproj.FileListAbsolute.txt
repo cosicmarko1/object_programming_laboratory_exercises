@@ -1,0 +1,10 @@
+C:\Users\Marko\source\repos\OP_LV3\OP_LV3\bin\Debug\OP_LV3.exe.config
+C:\Users\Marko\source\repos\OP_LV3\OP_LV3\bin\Debug\OP_LV3.exe
+C:\Users\Marko\source\repos\OP_LV3\OP_LV3\bin\Debug\OP_LV3.pdb
+C:\Users\Marko\source\repos\OP_LV3\OP_LV3\obj\Debug\OP_LV3.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\OP_LV3\OP_LV3\obj\Debug\OP_LV3.Form1.resources
+C:\Users\Marko\source\repos\OP_LV3\OP_LV3\obj\Debug\OP_LV3.Properties.Resources.resources
+C:\Users\Marko\source\repos\OP_LV3\OP_LV3\obj\Debug\OP_LV3.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\OP_LV3\OP_LV3\obj\Debug\OP_LV3.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\OP_LV3\OP_LV3\obj\Debug\OP_LV3.exe
+C:\Users\Marko\source\repos\OP_LV3\OP_LV3\obj\Debug\OP_LV3.pdb
