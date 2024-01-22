@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\OP_LV1\obj\Debug\OP_LV1.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\OP_LV1\obj\Debug\OP_LV1.Form1.resources
+C:\Users\student\source\repos\OP_LV1\obj\Debug\OP_LV1.Properties.Resources.resources
+C:\Users\student\source\repos\OP_LV1\obj\Debug\OP_LV1.csproj.GenerateResource.cache
+C:\Users\student\source\repos\OP_LV1\obj\Debug\OP_LV1.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\OP_LV1\bin\Debug\OP_LV1.exe.config
+C:\Users\student\source\repos\OP_LV1\bin\Debug\OP_LV1.exe
+C:\Users\student\source\repos\OP_LV1\bin\Debug\OP_LV1.pdb
+C:\Users\student\source\repos\OP_LV1\obj\Debug\OP_LV1.exe
+C:\Users\student\source\repos\OP_LV1\obj\Debug\OP_LV1.pdb
